@@ -27,7 +27,7 @@ The proposal must cover all about:
 
 ## Points
 * Design Process
-  * suitability between design and implementation
+  * the correspondence between design and implementation
 * Features
   * Reporting feature
   * other feature
